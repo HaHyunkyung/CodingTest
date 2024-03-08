@@ -1,6 +1,6 @@
 package java_study;
 import java.util.Scanner;
-public class 회문 {
+public class palindromic {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 
